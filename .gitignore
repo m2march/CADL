@@ -1,0 +1,13 @@
+# General directories
+
+**/__pycache__
+**/.ipynb_checkpoints
+
+# Dataset directories
+
+session-0/img_align_celeba
+session-1/img_align_celeba
+session-1/dataset
+session-2/img_align_celeba
+session-3/MNIST_data
+session-3/datasets
